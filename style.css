@@ -110,11 +110,11 @@ a{
     flex-direction: row;
     justify-content: center;
     align-items:center;
-    height: calc(100vh - 59px);
+    margin: 50px 0;
 }
 
 .section1-page3_blocktxt{
-    width: 50%;
+    width: 60%;
     color: #ffffff;
     margin-right: 40px;
 }
